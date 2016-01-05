@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/davemaurer/pizza-express-tutorial#readme",
   "dependencies": {
+    "body-parser": "^1.14.2",
     "express": "^4.13.3",
     "jade": "^1.11.0"
   },

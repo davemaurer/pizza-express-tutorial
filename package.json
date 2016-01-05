@@ -1,0 +1,31 @@
+{
+  "name": "pizza-express-tutorial",
+  "version": "1.0.0",
+  "description": "Pizza tutorial. Awesome.",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davemaurer/pizza-express-tutorial.git"
+  },
+  "keywords": [
+    "express",
+    "pizza",
+    "yum",
+    "pie"
+  ],
+  "author": "Dave Maurer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davemaurer/pizza-express-tutorial/issues"
+  },
+  "homepage": "https://github.com/davemaurer/pizza-express-tutorial#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.4"
+  }
+}
